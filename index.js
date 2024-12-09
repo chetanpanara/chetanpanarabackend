@@ -23,5 +23,5 @@ app.get('/data', (req, res) => {
 
 
 app.listen(8055, () => { 
-  console.log("server is running in 8055");
+  console.log("server is running innnnn 8055");
 })
